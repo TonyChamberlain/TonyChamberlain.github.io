@@ -45,3 +45,7 @@ figcaption {
 .next-line {
     display: block;
 }
+
+nav > li {
+    text-align: center;
+}
