@@ -50,3 +50,8 @@ figcaption {
 nav > li {
     text-align: center;
 }
+
+img {
+    width: 150px;
+    margin-left: 37%;
+}
